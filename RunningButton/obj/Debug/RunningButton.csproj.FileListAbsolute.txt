@@ -1,0 +1,28 @@
+c:\users\admin\documents\visual studio 2015\Projects\RunningButton\RunningButton\bin\Debug\RunningButton.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\RunningButton\RunningButton\bin\Debug\RunningButton.exe
+c:\users\admin\documents\visual studio 2015\Projects\RunningButton\RunningButton\bin\Debug\RunningButton.pdb
+c:\users\admin\documents\visual studio 2015\Projects\RunningButton\RunningButton\obj\Debug\RunningButton.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\RunningButton\RunningButton\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\RunningButton\RunningButton\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\RunningButton\RunningButton\obj\Debug\RunningButton_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\RunningButton\RunningButton\obj\Debug\RunningButton_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\RunningButton\RunningButton\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\RunningButton\RunningButton\obj\Debug\RunningButton.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\RunningButton\RunningButton\obj\Debug\RunningButton.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\RunningButton\RunningButton\obj\Debug\RunningButton.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\RunningButton\RunningButton\obj\Debug\RunningButton.exe
+c:\users\admin\documents\visual studio 2015\Projects\RunningButton\RunningButton\obj\Debug\RunningButton.pdb
+C:\Users\ЗейтынБ\Downloads\RunningButton\RunningButton\bin\Debug\RunningButton.exe.config
+C:\Users\ЗейтынБ\Downloads\RunningButton\RunningButton\bin\Debug\RunningButton.exe
+C:\Users\ЗейтынБ\Downloads\RunningButton\RunningButton\bin\Debug\RunningButton.pdb
+C:\Users\ЗейтынБ\Downloads\RunningButton\RunningButton\obj\Debug\RunningButton.csprojResolveAssemblyReference.cache
+C:\Users\ЗейтынБ\Downloads\RunningButton\RunningButton\obj\Debug\MainWindow.g.cs
+C:\Users\ЗейтынБ\Downloads\RunningButton\RunningButton\obj\Debug\App.g.cs
+C:\Users\ЗейтынБ\Downloads\RunningButton\RunningButton\obj\Debug\RunningButton_MarkupCompile.cache
+C:\Users\ЗейтынБ\Downloads\RunningButton\RunningButton\obj\Debug\RunningButton_MarkupCompile.lref
+C:\Users\ЗейтынБ\Downloads\RunningButton\RunningButton\obj\Debug\MainWindow.baml
+C:\Users\ЗейтынБ\Downloads\RunningButton\RunningButton\obj\Debug\RunningButton.g.resources
+C:\Users\ЗейтынБ\Downloads\RunningButton\RunningButton\obj\Debug\RunningButton.Properties.Resources.resources
+C:\Users\ЗейтынБ\Downloads\RunningButton\RunningButton\obj\Debug\RunningButton.csproj.GenerateResource.Cache
+C:\Users\ЗейтынБ\Downloads\RunningButton\RunningButton\obj\Debug\RunningButton.exe
+C:\Users\ЗейтынБ\Downloads\RunningButton\RunningButton\obj\Debug\RunningButton.pdb
